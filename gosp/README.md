@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/gosp.png", width = "200">
+  <img src="images/gosp-2.png", width = "200">
 </p>   
 
 <p align="left">
