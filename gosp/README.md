@@ -3,7 +3,7 @@
 </p>   
 
 <p align="left">
-  <img src="images/gosp.png", width = "50">
+  <img src="images/gosp.png", width = "80">
 </p> 
 
 [[view code]](http://nbviewer.jupyter.org/github/marcotav/natural-language-processing/blob/master/sentiment-analysis/notebooks/sentiment-analysis.ipynb) 
